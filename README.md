@@ -8,7 +8,7 @@
 
 ---
 
-These are some of my qualifications. Check out more on the CV attached to binjang repository!
+These are some of my qualifications. Check out more on the CV attached to [this repository](https://github.com/binjang/binjang)!
 - 2022 KSEA-Rim scholarship recipient
 - 2022 National AI Competition (NLP, Machine Reading Comprehension) (Korea) Winner (1st place on all three leaderboards)
 - 2017 Cornell University's Adelphic Award nominee
