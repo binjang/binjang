@@ -1,10 +1,10 @@
 ## Hello! Welcome to my GitHub.
 
-** I am a newbie NLP engineer just starting to learn how things work. ** But I still do love physics and many other things.
+**I am a newbie NLP engineer just starting to learn how things work.** But I still do love physics and many other things.
 
-** I am currently working as an intern NLP Engineer at [TUNiB](https://github.com/tunib-ai)** developing St. Patrick, the hate speech detection engine. Check out the demo version on this [link!](https://demo.tunib.ai/safety)
+**I am currently working as an intern NLP Engineer at [TUNiB](https://github.com/tunib-ai)** developing St. Patrick, the hate speech detection engine. Check out the demo version on this [link!](https://demo.tunib.ai/safety)
 
-** I am an undergraduate student at Cornell University,** double majoring in Physics and Information Science (Data science concentration).
+**I am an undergraduate student at Cornell University,** double majoring in Physics and Information Science (Data science concentration).
 
 ---
 
