@@ -3,23 +3,23 @@
 
 ### I am ...
 
-- An NLP engineer at [TUNiB](https://tunib.ai).
+- An _**NLP engineer**_ at [TUNiB](https://tunib.ai).
 
-- An undergraduate senior student at Cornell University. (Currently on an academic break) 
+- An _**undergraduate senior student at Cornell University**_. (Currently on an academic break) 
 <br>
 
 
 ### I am working on ...
 
 At work, I am working on TUNiBridge API, which provides deep-learning model based langugae API services.
-- [St. Patrick](https://demo.tunibridge.ai/safety/eng), a multilingual hate speech detection engine that detects, highlights, and moderates harmful texts included in a given text.
+- [_St. Patrick_](https://demo.tunibridge.ai/safety/eng), a multilingual hate speech detection engine that detects, highlights, and moderates harmful texts included in a given text.
 
-- [De-identification engine](https://demo.tunibridge.ai/privacy/eng), an engine that detects and detects and de-identifies 10+ different types of personal information incuded in any given everyday texts.
+- [_De-identification engine_](https://demo.tunibridge.ai/privacy/eng), an engine that detects and detects and de-identifies 10+ different types of personal information incuded in any given everyday texts.
 
 Off work, I recently have been working on ...
-- [korcount](https://pypi.org/project/korcount/), a python package that converts Korean number strings into numerical numbers.
+- [_korcount_](https://pypi.org/project/korcount/), a python package that converts Korean number strings into numerical numbers.
 
-- [cryptotrader](), a python cryptocurrency trading bot that sadly doesn't always do what it's supposed to do.
+- [_cryptotrader_](), a python cryptocurrency trading bot that sadly doesn't always do what it's supposed to do.
 <br>
 
 
@@ -28,15 +28,15 @@ These are some of my qualifications. Check out more on the CV attached to [this 
 
 - ### 2023
 
-  - 3rd Place, Artificial Intelligence Grand Challenge
+  - 3rd Place, [_Artificial Intelligence Grand Challenge_](https://www.aigrandchallenge.or.kr)
 
 - ### 2022 
 
   - 1st Author, [_A New Dataset for Ethical Dialogue Generation in Multi-Turn Conversations_](https://koreascience.kr/article/CFKO202233649223334.pub?&lang=en) (Proceedings of the Korea Information Processing Society Conference)
 
-  - Winner, Republic of Korea National AI Competition (NLP, Machine Reading Comprehension -- 1st place on all three leaderboards)
+  - Winner, [_Republic of Korea National AI Competition_](https://aichallenge.or.kr/competition/detail/1) (NLP, Machine Reading Comprehension — 1st place on all three leaderboards)
 
-  - KSEA-Rim scholarship recipien
+  - Recipient, [_KSEA-Rim Scholarship_](https://www.linkedin.com/posts/ksea_scholarship-undergraduate-science-activity-6907408057404653568-xqYQ/?trk=public_profile_like_view)
 
 - ### Older
 
@@ -47,9 +47,7 @@ These are some of my qualifications. Check out more on the CV attached to [this 
   - 2017 Cornell University's Adelphic Award nominee
 
   - 2016 Korea Young Physicists' Tournament (KYPT) Winner, Minister's Award
-
-
-### You can find me on ...
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bin-jang-14b977148/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binjang)
