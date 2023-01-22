@@ -9,7 +9,7 @@
 <br>
 
 
-### I work on ...
+### I am working on ...
 
 At work, I am working on TUNiBridge API, which provides deep-learning model based langugae API services.
 - [St. Patrick](https://demo.tunibridge.ai/safety/eng), a multilingual hate speech detection engine that detects, highlights, and moderates harmful texts included in a given text.
