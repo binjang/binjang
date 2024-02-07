@@ -3,28 +3,11 @@
 
 ### I am ...
 
-- An _**NLP engineer**_ at [TUNiB](https://tunib.ai).
-
 - An _**undergraduate senior student at Cornell University**_. (Currently on an academic break) 
 <br>
 
-
-### I am working on ...
-
-At work, I am working on TUNiBridge API, which provides deep-learning model based langugae API services.
-- [_St. Patrick_](https://demo.tunibridge.ai/safety/eng), a multilingual hate speech detection engine that detects, highlights, and moderates harmful texts included in a given text.
-
-- [_De-identification engine_](https://demo.tunibridge.ai/privacy/eng), an engine that detects and detects and de-identifies 10+ different types of personal information incuded in any given everyday texts.
-
-Off work, I recently have been working on ...
-- [_korcount_](https://pypi.org/project/korcount/), a python package that converts Korean number strings into numerical numbers.
-
-- [_cryptotrader_](), a python cryptocurrency trading bot that sadly doesn't always do what it's supposed to do.
-<br>
-
-
 ### Some of my notable qualifications are ...
-These are some of my qualifications. Check out more on the CV attached to [this repository](https://github.com/binjang/binjang)!
+These are some of my qualifications. Check out more on my [CV](https://www.notion.so/binjang/Hi-I-m-Bin-39a00a62403844ec900bfbaa21859645?pvs=4)!
 
 - ### 2023
 
