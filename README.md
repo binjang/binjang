@@ -3,7 +3,7 @@
 
 ### I am ...
 
-- An _**undergraduate senior student at Cornell University**_. (Currently on an academic break) 
+- An _**undergraduate senior student at Cornell University**_.
 <br>
 
 ### Some of my notable qualifications are ...
