@@ -3,7 +3,7 @@
 
 ### I am ...
 
-- A Machine Learning Infrastructure Engineer at Moloco.
+- A Machine Learning Infrastructure Engineer at [Moloco](https://www.moloco.com/).
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bin-jang-14b977148/)
