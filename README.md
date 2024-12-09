@@ -3,33 +3,7 @@
 
 ### I am ...
 
-- An _**undergraduate senior student at Cornell University**_.
-<br>
-
-### Some of my notable qualifications are ...
-These are some of my qualifications. Check out more on my [CV](https://www.notion.so/binjang/Hi-I-m-Bin-39a00a62403844ec900bfbaa21859645?pvs=4)!
-
-- ### 2023
-
-  - 3rd Place, [_Artificial Intelligence Grand Challenge_](https://www.aigrandchallenge.or.kr)
-
-- ### 2022 
-
-  - 1st Author, [_A New Dataset for Ethical Dialogue Generation in Multi-Turn Conversations_](https://koreascience.kr/article/CFKO202233649223334.pub?&lang=en) (Proceedings of the Korea Information Processing Society Conference)
-
-  - Winner, [_Republic of Korea National AI Competition_](https://aichallenge.or.kr/competition/detail/1) (NLP, Machine Reading Comprehension — 1st place on all three leaderboards)
-
-  - Recipient, [_KSEA-Rim Scholarship_](https://www.linkedin.com/posts/ksea_scholarship-undergraduate-science-activity-6907408057404653568-xqYQ/?trk=public_profile_like_view)
-
-- ### Older
-
-  - 2021 FA College of Arts and Sciences Dean's list
-
-  - 2020 FA College of Arts and Sciences Dean's list
-
-  - 2017 Cornell University's Adelphic Award nominee
-
-  - 2016 Korea Young Physicists' Tournament (KYPT) Winner, Minister's Award
+- A Machine Learning Infrastructure Engineer at Moloco.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bin-jang-14b977148/)
