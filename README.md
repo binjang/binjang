@@ -1,27 +1,9 @@
-## Hello! I'm Bin. 🇰🇷
+### Welcome to my Profile!
 
+---
 
-### I am ...
+Hi, I’m Bin Jang, a Machine Learning Infrastructure Engineer at  [Moloco](https://www.moloco.com/), based in the San Francisco Bay Area.
 
-- A Machine Learning Infrastructure Engineer at [Moloco](https://www.moloco.com/).
-<br>
+I work on making thousands of training jobs at Moloco more scalable, cost-efficient, and faster. I also believe code only matters when people can understand and use it, so I value readability, simplicity, and focused design.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bin-jang-14b977148/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binjang)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/binj0313/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bjang98@gmail.com)
-
-<!--
-**binjang/binjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’d like to connect, reach out on [LinkedIn](https://www.linkedin.com/in/bin-jang/)!
